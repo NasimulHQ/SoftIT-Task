@@ -13,8 +13,11 @@ class EmployeeFactory extends Factory
      */
     public function definition()
     {
+        $employeeTitle = $this->faker->words(10);
         return [
-            //
+
+            'employee_id'=> $employeeTitle,
+            'employee_name' => $employeeTitle,
         ];
     }
 }
