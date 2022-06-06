@@ -15,9 +15,9 @@
                 <div class="col-md-6" style="text-align: center; margin-top: 100px">
                     <h1>HELLO, Soft IT Care!</h1>
                     <h5>This is Nasimul Haque Pathan.</h5>
-                    <a class="btn btn-primary" href="">Problem 01</a>
-                    <a class="btn btn-success" href="">Problem 02</a>
-                    <a class="btn btn-primary" href="">Problem 03</a>
+                    <a class="btn btn-primary" href="">Problem 01/Empty</a>
+                    <a class="btn btn-success" href="day-count">Problem 02</a>
+                    <a class="btn btn-primary" href="">Problem 03/Empty</a>
                     <a class="btn btn-success" href="get-all-employee">Print Data 04</a>
                 </div>
                 <div class="col-md-3"></div>

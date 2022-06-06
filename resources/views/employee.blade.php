@@ -16,12 +16,13 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-sm-3"></div>
-            <div class="col-sm-6">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
                 <h1 class="bg-success" style="margin-top: 5px;">
                     <center>Show All Data</center>
                 </h1>
                 <a class="btn btn-info mt-05" href="download-pdf">Print Data</a>
+                <a class="btn btn-primary" href="/">Back</a>
                 <table class="table">
                     <thead>
                         <tr>
@@ -42,7 +43,7 @@
                     </tbody>
                 </table>
             </div>
-            <div class="col-sm-3"></div>
+            <div class="col-sm-2"></div>
         </div>
     </div>
 </body>

@@ -1,0 +1,26 @@
+.today {
+  background:#ffff33;
+}
+/* different color for weekend  */
+.mid {
+  background: lightblue;
+}
+
+.start {
+  background: -webkit-linear-gradient(90deg, white 50%, lightblue 51%);
+  background: linear-gradient(90deg, white 50%, lightblue 51%);
+}
+
+.end {
+  background: -webkit-linear-gradient(90deg, lightblue 50%, white 51%);
+  background: linear-gradient(90deg, lightblue 50%, white 51%);
+}
+
+.start.end {
+  background: -webkit-linear-gradient(90deg, lightblue 50%, lightblue 51%);
+  background: linear-gradient(90deg, lightblue 50%, lightblue 51%);
+}
+
+.weekend{
+  color:red;
+}
