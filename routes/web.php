@@ -21,3 +21,6 @@ Route::get('/', function () {
 Route::resources([
     'employeers' => EmployeeController::class
 ]);
+
+Route::get('get-all-employee', [EmployeeController::class, 'getAllEmployee']);
+Route::get('download-pdf', [EmployeeController::class, 'downloadPDF']);
